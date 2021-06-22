@@ -1,4 +1,0 @@
-/home/tonglu/slam/VO-LOAM/wys_vo_loam/build/CMakeFiles/rebuild_cache.dir
-/home/tonglu/slam/VO-LOAM/wys_vo_loam/build/CMakeFiles/match.dir
-/home/tonglu/slam/VO-LOAM/wys_vo_loam/build/CMakeFiles/edit_cache.dir
-/home/tonglu/slam/VO-LOAM/wys_vo_loam/build/CMakeFiles/main.dir
